@@ -1,0 +1,17 @@
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\bin\Debug\Prescription.exe.config
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\bin\Debug\Prescription.exe
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\bin\Debug\Prescription.pdb
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.csprojResolveAssemblyReference.cache
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Properties.Resources.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.csproj.GenerateResource.Cache
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.exe
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.pdb
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_Home.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_Control.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_Error_Fields.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_Print.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_AddPrescription.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_Backup.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_Login.resources
+D:\C# Desktop Projects\ManageBooks_Entity_Framework\Prescription\Prescription\obj\Debug\Prescription.Form_Start.resources
